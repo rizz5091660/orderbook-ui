@@ -113,7 +113,7 @@ export default class TableTrade extends React.Component {
               accessor: "bid"
             },
             {
-              Header: "Ask",
+              Header: "ASK",
               accessor: "ask"
             },
             {
@@ -121,11 +121,11 @@ export default class TableTrade extends React.Component {
               accessor: "low"
             },
             {
-              Header: "High",
+              Header: "HIGH",
               accessor: "high"
             },
             {
-              Header: "Volume",
+              Header: "VOLUME",
               accessor: "volume"
             }
           ]}
